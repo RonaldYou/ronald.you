@@ -107,7 +107,7 @@ const now: string =
   'Currently training for a marathon - Toronto Waterfront Marathon on October 18th, 2026'
 
 const upcoming: string =
-  'Skip Trips - always a ski trip. When in doubt a ski trip. And Level 2 CSIA certification this upcoming winter. \n Oh and also buying a cheap manual off facebook marketplace to learn how to drive stick.'
+  'Ski Trips - always a ski trip. When in doubt a ski trip. And Level 2 CSIA certification this upcoming winter. \n Oh and also buying a cheap manual off facebook marketplace to learn how to drive stick.'
 
 const interests: Interest[] = [
   { name: 'Skiing', note: 'Been skiing for ~15 years. Level 1 CSIA Certified' },
@@ -122,8 +122,7 @@ const favorites: Favorite[] = [
   { label: 'Favorite place', value: 'Copenhagen' },
   {
     label: 'On repeat',
-    value: 'Fool\'s Gold by One Direction',
-    url: 'https://open.spotify.com/search/Fool%27s%20Gold%20One%20Direction',
+    value: '',
   },
 ]
 
