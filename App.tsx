@@ -122,7 +122,7 @@ const favorites: Favorite[] = [
   { label: 'Favorite place', value: 'Copenhagen' },
   {
     label: 'On repeat',
-    value: '',
+    value: 'https://open.spotify.com/track/0L5gFNrzHyh4OhMwEz6DGS?si=8d2c71a92c414136',
   },
 ]
 
